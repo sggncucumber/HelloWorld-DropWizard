@@ -1,3 +1,6 @@
+To push complete project to GitHub
+------------------------------------
+
 G:\Projects\Docker\dropwizard>git remote add origin https://github.com/sggncucum
 ber/HelloWorld-DropWizard.git
 
@@ -33,4 +36,20 @@ Total 35 (delta 1), reused 0 (delta 0)
 To https://github.com/sggncucumber/HelloWorld-DropWizard.git
    7c9c075..657bef4  master -> master
 
-G:\Projects\Docker\dropwizard>
+To Add changed files
+----------------------
+G:\Projects\Docker\dropwizard>git add .
+
+G:\Projects\Docker\dropwizard>git commit -m "added steps to be followed"
+[master f6d40e9] added steps to be followed
+ 1 file changed, 36 insertions(+)
+ create mode 100644 StepsToFollow.txt
+
+G:\Projects\Docker\dropwizard>git push origin master
+Counting objects: 4, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 815 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+To https://github.com/sggncucumber/HelloWorld-DropWizard.git
+   657bef4..f6d40e9  master -> master
