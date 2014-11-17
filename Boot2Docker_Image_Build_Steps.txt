@@ -1,0 +1,300 @@
+  Verifying  : libXfont-1.4.7-1.1.el7.x86_64                              19/78
+
+  Verifying  : mesa-libEGL-9.2.5-6.20131218.el7_0.x86_64                  20/78
+
+  Verifying  : flac-libs-1.3.0-4.el7.x86_64                               21/78
+
+  Verifying  : libasyncns-0.8-7.el7.x86_64                                22/78
+
+  Verifying  : 1:java-1.7.0-openjdk-1.7.0.71-2.5.3.1.el7_0.x86_64         23/78
+
+  Verifying  : sysvinit-tools-2.88-14.dsf.el7.x86_64                      24/78
+
+  Verifying  : libXi-1.7.2-2.1.el7.x86_64                                 25/78
+
+  Verifying  : 1:libvorbis-1.3.3-8.el7.x86_64                             26/78
+
+  Verifying  : hwdata-0.252-7.3.el7.noarch                                27/78
+
+  Verifying  : 1:java-1.7.0-openjdk-headless-1.7.0.71-2.5.3.1.el7_0.x86   28/78
+
+  Verifying  : libXinerama-1.1.3-2.1.el7.x86_64                           29/78
+
+  Verifying  : libXft-2.3.1-5.1.el7.x86_64                                30/78
+
+  Verifying  : libthai-0.1.14-9.el7.x86_64                                31/78
+
+  Verifying  : pulseaudio-libs-3.0-22.el7.x86_64                          32/78
+
+  Verifying  : graphite2-1.2.2-5.el7.x86_64                               33/78
+
+  Verifying  : libXrender-0.9.8-2.1.el7.x86_64                            34/78
+
+  Verifying  : javapackages-tools-3.4.1-6.el7_0.noarch                    35/78
+
+  Verifying  : 1:java-1.7.0-openjdk-devel-1.7.0.71-2.5.3.1.el7_0.x86_64   36/78
+
+  Verifying  : json-c-0.11-4.el7_0.x86_64                                 37/78
+
+  Verifying  : hicolor-icon-theme-0.12-7.el7.noarch                       38/78
+
+  Verifying  : libxcb-1.9-5.el7.x86_64                                    39/78
+
+  Verifying  : systemd-sysv-208-11.el7_0.4.x86_64                         40/78
+
+  Verifying  : python-javapackages-3.4.1-6.el7_0.noarch                   41/78
+
+  Verifying  : xorg-x11-fonts-Type1-7.5-9.el7.noarch                      42/78
+
+  Verifying  : avahi-libs-0.6.31-13.el7.x86_64                            43/78
+
+  Verifying  : ttmkfdir-3.0.9-41.el7.x86_64                               44/78
+
+  Verifying  : libxslt-1.1.28-5.el7.x86_64                                45/78
+
+  Verifying  : pango-1.34.1-5.el7.x86_64                                  46/78
+
+  Verifying  : libICE-1.0.8-7.el7.x86_64                                  47/78
+
+  Verifying  : freetype-2.4.11-9.el7.x86_64                               48/78
+
+  Verifying  : 2:libogg-1.3.0-7.el7.x86_64                                49/78
+
+  Verifying  : libSM-1.2.1-7.el7.x86_64                                   50/78
+
+  Verifying  : 1:cups-libs-1.6.3-14.el7.x86_64                            51/78
+
+  Verifying  : libdrm-2.4.50-1.1.el7.x86_64                               52/78
+
+  Verifying  : libX11-1.6.0-2.1.el7.x86_64                                53/78
+
+  Verifying  : jbigkit-libs-2.0-11.el7.x86_64                             54/78
+
+  Verifying  : mesa-libGL-9.2.5-6.20131218.el7_0.x86_64                   55/78
+
+  Verifying  : harfbuzz-0.9.20-3.el7.x86_64                               56/78
+
+  Verifying  : gtk2-2.24.22-5.el7_0.1.x86_64                              57/78
+
+  Verifying  : libXcursor-1.1.14-2.1.el7.x86_64                           58/78
+
+  Verifying  : tzdata-java-2014i-1.el7.noarch                             59/78
+
+  Verifying  : mesa-libglapi-9.2.5-6.20131218.el7_0.x86_64                60/78
+
+  Verifying  : initscripts-9.49.17-1.el7_0.1.x86_64                       61/78
+
+  Verifying  : libfontenc-1.1.1-5.el7.x86_64                              62/78
+
+  Verifying  : jasper-libs-1.900.1-26.el7.x86_64                          63/78
+
+  Verifying  : libXfixes-5.0.1-2.1.el7.x86_64                             64/78
+
+  Verifying  : libXau-1.0.8-2.1.el7.x86_64                                65/78
+
+  Verifying  : hostname-3.13-3.el7.x86_64                                 66/78
+
+  Verifying  : libXrandr-1.4.1-2.1.el7.x86_64                             67/78
+
+  Verifying  : libXext-1.3.2-2.1.el7.x86_64                               68/78
+
+  Verifying  : fontconfig-2.10.95-7.el7.x86_64                            69/78
+
+  Verifying  : cairo-1.12.14-6.el7.x86_64                                 70/78
+
+  Verifying  : gsm-1.0.13-11.el7.x86_64                                   71/78
+
+  Verifying  : avahi-0.6.31-13.el7.x86_64                                 72/78
+
+  Verifying  : libXdamage-1.1.4-4.1.el7.x86_64                            73/78
+
+  Verifying  : lcms2-2.5-4.el7.x86_64                                     74/78
+
+  Verifying  : mesa-libgbm-9.2.5-6.20131218.el7_0.x86_64                  75/78
+
+  Verifying  : atk-2.8.0-4.el7.x86_64                                     76/78
+
+  Verifying  : libpciaccess-0.13.1-4.1.el7.x86_64                         77/78
+
+  Verifying  : gdk-pixbuf2-2.28.2-4.el7.x86_64                            78/78
+
+
+Installed:
+  java-1.7.0-openjdk-devel.x86_64 1:1.7.0.71-2.5.3.1.el7_0
+
+
+Dependency Installed:
+  alsa-lib.x86_64 0:1.0.27.2-3.el7
+
+  atk.x86_64 0:2.8.0-4.el7
+
+  avahi.x86_64 0:0.6.31-13.el7
+
+  avahi-libs.x86_64 0:0.6.31-13.el7
+
+  cairo.x86_64 0:1.12.14-6.el7
+
+  cups-libs.x86_64 1:1.6.3-14.el7
+
+  dbus.x86_64 1:1.6.12-8.el7
+
+  flac-libs.x86_64 0:1.3.0-4.el7
+
+  fontconfig.x86_64 0:2.10.95-7.el7
+
+  fontpackages-filesystem.noarch 0:1.44-8.el7
+
+  freetype.x86_64 0:2.4.11-9.el7
+
+  gdk-pixbuf2.x86_64 0:2.28.2-4.el7
+
+  giflib.x86_64 0:4.1.6-9.el7
+
+  graphite2.x86_64 0:1.2.2-5.el7
+
+  gsm.x86_64 0:1.0.13-11.el7
+
+  gtk2.x86_64 0:2.24.22-5.el7_0.1
+
+  harfbuzz.x86_64 0:0.9.20-3.el7
+
+  hicolor-icon-theme.noarch 0:0.12-7.el7
+
+  hostname.x86_64 0:3.13-3.el7
+
+  hwdata.noarch 0:0.252-7.3.el7
+
+  initscripts.x86_64 0:9.49.17-1.el7_0.1
+
+  jasper-libs.x86_64 0:1.900.1-26.el7
+
+  java-1.7.0-openjdk.x86_64 1:1.7.0.71-2.5.3.1.el7_0
+
+  java-1.7.0-openjdk-headless.x86_64 1:1.7.0.71-2.5.3.1.el7_0
+
+  javapackages-tools.noarch 0:3.4.1-6.el7_0
+
+  jbigkit-libs.x86_64 0:2.0-11.el7
+
+  json-c.x86_64 0:0.11-4.el7_0
+
+  kmod.x86_64 0:14-9.el7
+
+  lcms2.x86_64 0:2.5-4.el7
+
+  libICE.x86_64 0:1.0.8-7.el7
+
+  libSM.x86_64 0:1.2.1-7.el7
+
+  libX11.x86_64 0:1.6.0-2.1.el7
+
+  libX11-common.noarch 0:1.6.0-2.1.el7
+
+  libXau.x86_64 0:1.0.8-2.1.el7
+
+  libXcomposite.x86_64 0:0.4.4-4.1.el7
+
+  libXcursor.x86_64 0:1.1.14-2.1.el7
+
+  libXdamage.x86_64 0:1.1.4-4.1.el7
+
+  libXext.x86_64 0:1.3.2-2.1.el7
+
+  libXfixes.x86_64 0:5.0.1-2.1.el7
+
+  libXfont.x86_64 0:1.4.7-1.1.el7
+
+  libXft.x86_64 0:2.3.1-5.1.el7
+
+  libXi.x86_64 0:1.7.2-2.1.el7
+
+  libXinerama.x86_64 0:1.1.3-2.1.el7
+
+  libXrandr.x86_64 0:1.4.1-2.1.el7
+
+  libXrender.x86_64 0:0.9.8-2.1.el7
+
+  libXtst.x86_64 0:1.2.2-2.1.el7
+
+  libXxf86vm.x86_64 0:1.1.3-2.1.el7
+
+  libasyncns.x86_64 0:0.8-7.el7
+
+  libdaemon.x86_64 0:0.14-7.el7
+
+  libdrm.x86_64 0:2.4.50-1.1.el7
+
+  libfontenc.x86_64 0:1.1.1-5.el7
+
+  libjpeg-turbo.x86_64 0:1.2.90-5.el7
+
+  libogg.x86_64 2:1.3.0-7.el7
+
+  libpciaccess.x86_64 0:0.13.1-4.1.el7
+
+  libpng.x86_64 2:1.5.13-5.el7
+
+  libsndfile.x86_64 0:1.0.25-9.el7
+
+  libthai.x86_64 0:0.1.14-9.el7
+
+  libtiff.x86_64 0:4.0.3-14.el7
+
+  libvorbis.x86_64 1:1.3.3-8.el7
+
+  libxcb.x86_64 0:1.9-5.el7
+
+  libxslt.x86_64 0:1.1.28-5.el7
+
+  mesa-libEGL.x86_64 0:9.2.5-6.20131218.el7_0
+
+  mesa-libGL.x86_64 0:9.2.5-6.20131218.el7_0
+
+  mesa-libgbm.x86_64 0:9.2.5-6.20131218.el7_0
+
+  mesa-libglapi.x86_64 0:9.2.5-6.20131218.el7_0
+
+  pango.x86_64 0:1.34.1-5.el7
+
+  pixman.x86_64 0:0.32.4-3.el7
+
+  pulseaudio-libs.x86_64 0:3.0-22.el7
+
+  python-javapackages.noarch 0:3.4.1-6.el7_0
+
+  python-lxml.x86_64 0:3.2.1-4.el7
+
+  systemd-sysv.x86_64 0:208-11.el7_0.4
+
+  sysvinit-tools.x86_64 0:2.88-14.dsf.el7
+
+  tcp_wrappers-libs.x86_64 0:7.6-77.el7
+
+  ttmkfdir.x86_64 0:3.0.9-41.el7
+
+  tzdata-java.noarch 0:2014i-1.el7
+
+  xorg-x11-font-utils.x86_64 1:7.5-18.1.el7
+
+  xorg-x11-fonts-Type1.noarch 0:7.5-9.el7
+
+
+Complete!
+ ---> d1ef0ec07a06
+Removing intermediate container dac66c4e420e
+Step 2 : ADD target/HelloWorldProj-0.0.1-SNAPSHOT.jar /
+ ---> 28b185a2a379
+Removing intermediate container 376b053cea0a
+Step 3 : ADD hello-world.yml /
+ ---> 9ef6fe5ed4dc
+Removing intermediate container 621e9aa73cda
+Step 4 : CMD java -jar HelloWorldProj-0.0.1-SNAPSHOT.jar server hello-world.yml
+ ---> Running in a3e0fc81666e
+ ---> d4d9b3628242
+Removing intermediate container a3e0fc81666e
+Step 5 : EXPOSE 8080
+ ---> Running in 572cb3798ab7
+ ---> f09cb4741c01
+Removing intermediate container 572cb3798ab7
+Successfully built f09cb4741c01
+docker@boot2docker:~/HelloWorld-DropWizard$
