@@ -1,0 +1,36 @@
+G:\Projects\Docker\dropwizard>git remote add origin https://github.com/sggncucum
+ber/HelloWorld-DropWizard.git
+
+G:\Projects\Docker\dropwizard>git pull https://github.com/sggncucumber/HelloWorl
+d-DropWizard.git master
+From https://github.com/sggncucumber/HelloWorld-DropWizard
+ * branch            master     -> FETCH_HEAD
+Merge made by the 'recursive' strategy.
+ README.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+ create mode 100644 README.md
+
+G:\Projects\Docker\dropwizard>git init
+Reinitialized existing Git repository in G:/Projects/Docker/dropwizard/.git/
+
+G:\Projects\Docker\dropwizard>git add .
+
+G:\Projects\Docker\dropwizard>git commit -m "First commit"
+On branch master
+nothing to commit, working directory clean
+
+
+G:\Projects\Docker\dropwizard>git remote -v
+origin  https://github.com/sggncucumber/HelloWorld-DropWizard.git (fetch)
+origin  https://github.com/sggncucumber/HelloWorld-DropWizard.git (push)
+
+G:\Projects\Docker\dropwizard>git push origin master
+Counting objects: 36, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (26/26), done.
+Writing objects: 100% (35/35), 8.21 MiB | 51.00 KiB/s, done.
+Total 35 (delta 1), reused 0 (delta 0)
+To https://github.com/sggncucumber/HelloWorld-DropWizard.git
+   7c9c075..657bef4  master -> master
+
+G:\Projects\Docker\dropwizard>
