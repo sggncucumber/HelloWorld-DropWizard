@@ -1,9 +1,10 @@
-FROM dockerfile/java:openjdk-7-jdk
+FROM centos
 
-ADD HelloWorldProj-0.0.1-SNAPSHOT.jar /target/HelloWorldProj-0.0.1-SNAPSHOT.jar
+RUN yum -y install java-1.7.0-openjdk-devel.x86_64 
 
-ADD hello-world.yml /target/hello-world.yml
+ADD target/HelloWorldProj-0.0.1-SNAPSHOT.jar /
+ADD hello-world.yml /
 
-CMD java -jar HelloWorldProj-0.0.1-SNAPSHOT.jar server /target/hello-world.yml
+CMD ["java", "-jar", "HelloWorldProj-0.0.1-SNAPSHOT.jar", "server", "hello-world.yml"]
 
 EXPOSE 8080
